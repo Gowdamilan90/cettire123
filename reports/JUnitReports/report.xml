@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="11.071" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Cettire Login" name="Simple Login" time="10.922">
+<system-out><![CDATA[
+Given I launch Chrome browser...............................................passed
+And open Cettire HomePage...................................................passed
+And click the signIn_Link on top right corner...............................passed
+When I enter Username and Password..........................................passed
+And click on Login button...................................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
