@@ -25,9 +25,11 @@ public class BaseClass
 	
 	
 		public WebDriver driver;
-		public ResourceBundle rb; // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Using for loading properties
+		public ResourceBundle rb; // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Using for loading properties************************
 
-
+// https://github.com/Gowdamilan90/cettire123.git
+		
+		
 		@BeforeClass
 		//@Parameters({"browser"})
 		//public void setup(String br) throws InterruptedException
